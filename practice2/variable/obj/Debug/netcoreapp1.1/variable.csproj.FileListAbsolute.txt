@@ -1,0 +1,8 @@
+/Users/zacole/Desktop/variable/bin/Debug/netcoreapp1.1/variable.deps.json
+/Users/zacole/Desktop/variable/bin/Debug/netcoreapp1.1/variable.runtimeconfig.json
+/Users/zacole/Desktop/variable/bin/Debug/netcoreapp1.1/variable.runtimeconfig.dev.json
+/Users/zacole/Desktop/variable/bin/Debug/netcoreapp1.1/variable.dll
+/Users/zacole/Desktop/variable/bin/Debug/netcoreapp1.1/variable.pdb
+/Users/zacole/Desktop/variable/obj/Debug/netcoreapp1.1/variable.AssemblyInfo.cs
+/Users/zacole/Desktop/variable/obj/Debug/netcoreapp1.1/variable.dll
+/Users/zacole/Desktop/variable/obj/Debug/netcoreapp1.1/variable.pdb
