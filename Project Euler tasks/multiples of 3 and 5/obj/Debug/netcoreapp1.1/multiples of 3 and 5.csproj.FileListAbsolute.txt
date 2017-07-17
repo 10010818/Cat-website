@@ -1,0 +1,8 @@
+/Users/zacole/Desktop/Project Euler tasks/multiples of 3 and 5/bin/Debug/netcoreapp1.1/multiples of 3 and 5.deps.json
+/Users/zacole/Desktop/Project Euler tasks/multiples of 3 and 5/bin/Debug/netcoreapp1.1/multiples of 3 and 5.runtimeconfig.json
+/Users/zacole/Desktop/Project Euler tasks/multiples of 3 and 5/bin/Debug/netcoreapp1.1/multiples of 3 and 5.runtimeconfig.dev.json
+/Users/zacole/Desktop/Project Euler tasks/multiples of 3 and 5/bin/Debug/netcoreapp1.1/multiples of 3 and 5.dll
+/Users/zacole/Desktop/Project Euler tasks/multiples of 3 and 5/bin/Debug/netcoreapp1.1/multiples of 3 and 5.pdb
+/Users/zacole/Desktop/Project Euler tasks/multiples of 3 and 5/obj/Debug/netcoreapp1.1/multiples of 3 and 5.AssemblyInfo.cs
+/Users/zacole/Desktop/Project Euler tasks/multiples of 3 and 5/obj/Debug/netcoreapp1.1/multiples of 3 and 5.dll
+/Users/zacole/Desktop/Project Euler tasks/multiples of 3 and 5/obj/Debug/netcoreapp1.1/multiples of 3 and 5.pdb

@@ -1,0 +1,8 @@
+/Users/zacole/Desktop/Project Euler tasks/smallest multiple/bin/Debug/netcoreapp1.1/smallest multiple.deps.json
+/Users/zacole/Desktop/Project Euler tasks/smallest multiple/bin/Debug/netcoreapp1.1/smallest multiple.runtimeconfig.json
+/Users/zacole/Desktop/Project Euler tasks/smallest multiple/bin/Debug/netcoreapp1.1/smallest multiple.runtimeconfig.dev.json
+/Users/zacole/Desktop/Project Euler tasks/smallest multiple/bin/Debug/netcoreapp1.1/smallest multiple.dll
+/Users/zacole/Desktop/Project Euler tasks/smallest multiple/bin/Debug/netcoreapp1.1/smallest multiple.pdb
+/Users/zacole/Desktop/Project Euler tasks/smallest multiple/obj/Debug/netcoreapp1.1/smallest multiple.AssemblyInfo.cs
+/Users/zacole/Desktop/Project Euler tasks/smallest multiple/obj/Debug/netcoreapp1.1/smallest multiple.dll
+/Users/zacole/Desktop/Project Euler tasks/smallest multiple/obj/Debug/netcoreapp1.1/smallest multiple.pdb

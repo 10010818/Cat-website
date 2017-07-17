@@ -1,8 +1,0 @@
-/Users/zacole/Desktop/practice2/bin/Debug/netcoreapp1.1/practice2.deps.json
-/Users/zacole/Desktop/practice2/bin/Debug/netcoreapp1.1/practice2.runtimeconfig.json
-/Users/zacole/Desktop/practice2/bin/Debug/netcoreapp1.1/practice2.runtimeconfig.dev.json
-/Users/zacole/Desktop/practice2/bin/Debug/netcoreapp1.1/practice2.dll
-/Users/zacole/Desktop/practice2/bin/Debug/netcoreapp1.1/practice2.pdb
-/Users/zacole/Desktop/practice2/obj/Debug/netcoreapp1.1/practice2.AssemblyInfo.cs
-/Users/zacole/Desktop/practice2/obj/Debug/netcoreapp1.1/practice2.dll
-/Users/zacole/Desktop/practice2/obj/Debug/netcoreapp1.1/practice2.pdb
