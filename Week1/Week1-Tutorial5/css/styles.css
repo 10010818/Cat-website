@@ -1,0 +1,13 @@
+body {
+    background-color: purple;
+}
+
+ul {
+    float:left;
+    display: block; height:50px;
+                    width:30px;
+  }
+
+  a {
+    color: white;
+  }
